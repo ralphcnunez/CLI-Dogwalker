@@ -1,5 +1,5 @@
 # CLI-Dogwalker
-Dogwalker is Command Line Interface (CLI) Application to keep track of the number of dogs you/ your company has walked. Users are able to Create, Read, Update and Delete their data.
+Dogwalker is Command Line Interface (CLI) Application to keep track of the number of dogs you or your company has walked. Users are able to Create, Read, Update and Delete their data.
 
 # Instructions
 * Fork and clone this repository
